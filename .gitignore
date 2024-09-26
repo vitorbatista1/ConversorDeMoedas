@@ -1,0 +1,6 @@
+﻿# Diretórios de compilação
+bin/
+obj/
+
+# Configurações do IDE
+.idea/
